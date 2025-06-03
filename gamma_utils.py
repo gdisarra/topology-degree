@@ -15,8 +15,8 @@ import copy
 from ripser import ripser
 import time
 #import pdb
-#plt.rcParams['font.family'] = 'serif'
-#plt.rcParams['font.serif'] = ['Times New Roman'] + plt.rcParams['font.serif']
+plt.rcParams['font.family'] = 'serif'
+plt.rcParams['font.serif'] = ['Times New Roman'] + plt.rcParams['font.serif']
 
 class Synthetic_Data:
 
