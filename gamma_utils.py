@@ -13,7 +13,6 @@ import persim
 from itertools import combinations
 import copy
 from ripser import ripser
-import matplotlib as mpl
 import time
 import pdb
 plt.rcParams['font.family'] = 'serif'
