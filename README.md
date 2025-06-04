@@ -1,7 +1,7 @@
 # topology-degree
 Demo and tutorial for the computation of the topology degree $\Gamma_d$ from *di Sarra et al., 2025* https://doi.org/10.1371/journal.pcbi.1012776.
 
-🔧 Usage
+### 🔧 Usage
 
 The code in this repository is designed to be used both on:
 
@@ -15,5 +15,3 @@ If you are interested in this project, would like to collaborate, or have questi
 
 📧 **Contact**: Giovanni di Sarra – g.disarra@gmail.com 
 🔗 **GitHub**: [github.com/gdisarra](https://github.com/gdisarra)
-
-Stay tuned for updates and finalized documentation in the near future!
