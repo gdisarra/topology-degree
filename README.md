@@ -1,5 +1,6 @@
 # topology-degree
 Demo and tutorial for the computation of the topology degree $\Gamma_d$ from *di Sarra et al., 2025* https://doi.org/10.1371/journal.pcbi.1012776.
+topology_degree.ipynb is a demo and tutorial Colab notebook.
 
 ### 🔧 Usage
 
