@@ -3,6 +3,7 @@ Demo and tutorial for the computation of the topology degree $\Gamma_d$ from *di
 topology_degree.ipynb is a demo and tutorial Colab notebook.
 
 ### 🔧 Usage
+To compute the topology degree, run https://github.com/gdisarra/topology-degree/blob/main/topology_degree.ipynb 
 
 The code in this repository is designed to be used both on:
 
